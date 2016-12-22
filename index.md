@@ -1,3 +1,3 @@
 ## Chant
 
-Duos et trios par type de voix
+[Duos et trios](chant/duos-trios.md) par type de voix
