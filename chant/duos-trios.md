@@ -51,5 +51,3 @@ Mozart | Mandina amabile, K. 480 | |
 Mozart | Das Bandel, K. 441 | |
 Mozart | Grazie agl'inganni tuoi, K. 532 | |
 Saint-Saëns | Oratorio de Noël, Op. 12 | VII. Tecum principium | soprano : fa♯4 - si5<br /> ténor : sol3 - sol4<br /> baryton : sol2 - fa4
-
-
